@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header img{
+    width: 100%;
+    height: 30rem;
+}
+
+section img{
+    width: 14%; 
+}
+
+.titulo_principal{
+    font-family: Arial, sans-serif; 
+    font-size: 105px;
+}
+
+.opciones{
+    left: 300px; 
+}
+
+a{
+    font-family: Arial, sans-serif; 
+    position: relative; 
+    left: 90rem; 
+    top: 0.8rem; 
+    border: 2px solid red;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+}
+
+.titulo_eventos{
+    text-align: center;
+}
+
+.titulo_evento{
+    font-family: Arial, sans-serif; 
+    font-size: 60px;
+}
+
+
+.h2_home{
+    font-family: Arial, sans-serif; 
+    position: relative;
+    margin: 40px;
+    bottom: 255px;
+    font-size: 40px;
+}
+
+.h3_home{
+    font-size: 25px;
+    position: relative;
+    margin: 30px;
+    padding-left: 20px;
+    bottom: 250px;
+}
+
+
+.contenedor_articulos{
+    padding-left: 300px;
+    
+}
+
+.seccion_articulos{
+    margin-top:-200px; 
+
+}
+
+.seccion_articulos >h2{
+    font-family: Arial, sans-serif; 
+    font-size: 40px;
+    padding-left: 300px;
+    margin: 30px;
+    
+}
+
+.seccion_articulos >p{
+    font-family: Arial, sans-serif; 
+    font-size: 20px;
+    padding-left: 330px;
+
+}
+
+/*CONTACTO */
+.seccion_contacto >p {
+    text-align: center;
+    font-size: 30px;
+ 
+}
+
+.seccion_contacto{
+    padding-bottom: 100px;
+    padding-top: -10222220px;
+}
+
