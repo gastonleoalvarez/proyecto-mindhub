@@ -6,6 +6,7 @@
 header img{
     width: 100%;
     height: 30rem;
+    object-fit: cover;
 }
 
 section img{
@@ -54,6 +55,7 @@ a{
 }
 
 .h3_home{
+    font-family: Arial, sans-serif;
     font-size: 25px;
     position: relative;
     margin: 30px;
@@ -61,6 +63,16 @@ a{
     bottom: 250px;
 }
 
+.contenedor_imagen{
+    margin-left: 85rem;
+    margin-top: -45rem; 
+
+}
+.contenedor_imagen > img{
+    width: 400px;
+    height: 400px;
+    
+}
 
 .contenedor_articulos{
     padding-left: 300px;
