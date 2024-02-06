@@ -15,17 +15,17 @@ section img{
 
 .titulo_principal{
     font-family: Arial, sans-serif; 
-    font-size: 105px;
+    font-size: 85px;
 }
 
-.opciones{
-    left: 300px; 
+header{
+    width: 100%;
 }
 
 a{
     font-family: Arial, sans-serif; 
     position: relative; 
-    left: 90rem; 
+    left: 70rem; 
     top: 0.8rem; 
     border: 2px solid red;
     font-size: 30px;
