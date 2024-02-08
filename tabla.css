@@ -6,7 +6,10 @@ main{
 
 table{
     width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
+
 
 tbody{
     text-align: center;
@@ -14,4 +17,25 @@ tbody{
 
 td{
     height: 40px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+iframe{
+    width: 40%;
+    height: 10rem;
+    border: none;
+}
+
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.contenedor_principal{
+    margin-left: 50px;
+}
+
+.ult{
+    margin-left: 50px;
 }
